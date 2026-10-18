@@ -1,0 +1,18 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+鼠标左右键显示位置,https://getquicker.net/Sharedaction?code=c9f9ce5b-0e3d-4340-eb6b-08df2c57ecc1,鼠标左右键显示位置,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,4.1 KB,2026-10-18 23:52,1,,2026-10-19
+离开一下,https://getquicker.net/Sharedaction?code=37af182f-6608-4f19-eb61-08df2c57ecc1,完美锁定微信+windows锁屏+天依蓝,通用,kxdd,https://getquicker.net/User/1450213/kxdd,6.4 KB,2026-10-18 13:04,2,节省0.5秒,2026-10-19
+共享文件夹,https://getquicker.net/Sharedaction?code=575002b7-a317-4260-eb60-08df2c57ecc1,HTTP文件服务器，文件夹目录共享传输,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,165 KB,2026-10-18 10:32,1,,2026-10-19
+AI生图 · STUDIO,https://getquicker.net/Sharedaction?code=5c89c0a3-847e-4231-a3f1-390c51167782,支持文生图、多参考图、串行批量、模板和调试的 WebView2 图像工作台。,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,520.1 KB,2026-10-06 16:22,4,"· 临时文件按动作和运行隔离；启动时清理超过 7 天、归属匹配且未被占用的残留。依赖目录未启用。
+· 设置页增加 API Key 加密存储说明和状态提示。
+· 批量导出自动创建缺失目录，失败时显示原因。",2026-10-19
+结束指定程序,https://getquicker.net/Sharedaction?code=f75c0723-868d-447e-4da7-08ddad659678,可关闭同一软件下全部窗口等,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,54.7 KB,2025-06-18 08:54,10,1,2026-10-19
+云栈,https://getquicker.net/Sharedaction?code=972a4a80-b90b-4fee-ae6e-b111779c74f9,基于Quicker的多网盘聚合管理工具、WebDav传输、跨账号复制移动、现代化界面、图片/文本/Markdown预览编辑、收藏排序、缓存后打开、回收站与还原。,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,372.3 KB,2026-10-12 21:34,3,"· 适配Quicker2.3.13“复杂动作的编程约定” 自动清理方案。 
+· 规范删除目录参数写法；当前校验无 remotePath 警告。
+· 本次更新会丢失动作设置内的用户配置。
+· 本次更新会有旧默认目录残留（需用户手动删除）：%LOCALAPPDATA%\Quicker\CloudStack",2026-10-19
+常用短语V4,https://getquicker.net/Sharedaction?code=bf782c25-8490-44d0-d4dc-08df2a725ba0,折叠后的分组栏可直接按住拖动移动窗口；支持分组、搜索、敏感遮挡、点击输入、排序、云备份和按分组导出。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,230.5 KB,2026-10-16 13:33,5,"1，增加折叠窗口功能
+2，增加按照分组导出数据功能，方便朋友之间的分享数据",2026-10-19
+悬停启动,https://getquicker.net/Sharedaction?code=d84a2bd6-6296-4dab-5b0a-08df12a00eea,超好用的动作拓展，不用点击就能启动动作！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,387.6 KB,2026-09-16 00:12,19,修复切换进程过快导致卡片残留的问题,2026-10-19
+动作面板v2,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,536.3 KB,2025-05-14 13:28,62,Quicker2.0无法再跳转到动作页，隐藏操作入口。,2026-10-19
+一键压缩/解压,https://getquicker.net/Sharedaction?code=6143315f-3e93-43b5-793d-08defffa530d,一键压缩/解压zip，支持智能解压，支持加密/解密、设置默认密码。密码使用 AES 加密保存在本地，只有登录自己的 Quicker 账号才能解密,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,98.2 KB,2026-08-22 11:38,13,新增：加密压缩时，在压缩包名称上添加加密。格式：压缩包名称-加密.zip,2026-10-19
+最近文件ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=754b8643-2c44-4fdb-ca11-08df16d477bc,列出最近下载、修改的文件，快速打开、复制、定位、重命名和归档。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,514.4 KB,2026-09-20 14:56,22,修复dll编译错误,2026-10-19
