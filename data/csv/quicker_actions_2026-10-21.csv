@@ -1,0 +1,100 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+压缩包伪装,https://getquicker.net/Sharedaction?code=1c804a7f-2e0e-4488-460c-08df2e411484,将压缩包伪装成图片或视频文件，双击打开为图片或视频，改后缀后可以正常解压。,通用,华哥不鸽,https://getquicker.net/User/1272203/%E5%8D%8E%E5%93%A5%E4%B8%8D%E9%B8%BD,11.3 KB,2026-10-21 00:07,1,,2026-10-21
+Qoder 每日积分领取,https://getquicker.net/Sharedaction?code=e482c358-0c38-42c3-a344-1351516f6d6c,自动解密提取本地 Qoder 桌面端凭证，调用官方 OpenAPI 领取每日 100 积分。毫秒级静默完成，无需模拟点击，支持右键复制 Token、查询积分明细、查看签到日志。,通用,Simonl,https://getquicker.net/User/134191/Simonl,18.8 KB,2026-10-20 23:34,1,,2026-10-21
+WorkBuddy 每日签到,https://getquicker.net/Sharedaction?code=9cd0874b-2744-471d-8c9b-8e78bff3c693,多账号自动签到并领取积分（支持桌面端自动提取凭证、右键获取/编辑凭证、自动重试与汇总）,通用,Simonl,https://getquicker.net/User/134191/Simonl,30.4 KB,2026-10-20 23:28,1,,2026-10-21
+屏幕找字增强,https://getquicker.net/Sharedaction?code=61e00e85-12a2-40e9-8edb-5ce52631efdc,输入多个关键词，一次在屏幕上标出全部出现位置，可逐个查看,通用,astroStar,https://getquicker.net/User/178545/astroStar,41.4 KB,2026-10-20 23:18,1,,2026-10-21
+一生二（修复版）,https://getquicker.net/Sharedaction?code=b37a7537-a8d6-40d8-912b-ecd2c27e4fd3,同一鼠标手势在屏幕或前台窗口不同区域实现不同功能，可自定义多种区域划分方案、划分数目及比例。修复原版在本版本无法运行的几处错误（分解文本表达式语法、参考线窗口XAML、宫格下标越界）。,通用,xuan.zl,https://getquicker.net/User/215149/xuan.zl,179.8 KB,2026-10-20 15:56,1,,2026-10-21
+路径直达,https://getquicker.net/Sharedaction?code=1aaaa929-df63-4013-a03a-478d827e1888,"参考Listary, 搜索目录、快速跳转，让打开与保存更顺手 。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,300.1 KB,2026-10-19 14:00,4,"v0.31.0-preview 更新说明
+本次集中优化日常唤起、快捷收藏、目录搜索和界面细节，让查找与切换目录更顺手。
+日常使用更清爽
+- 鼠标移入级联子目录、项目菜单或图片预览时保持显示。
+- 打开／另存为窗口继续保留紧凑贴边入口和工作目录快切。
+目标更明确，位置有记忆
+- 底栏显示本次绑定的跳转目标；能够核实时，标明 Opus 左栏／右栏，悬停可查看窗口信息。
+- 不同窗口分别记住主列表分组、选中目录和滚动位置。
+- 再次唤起清空搜索词，方便开始新搜索；位置记忆仅在本次后台运行期间保留。
+收藏与新建更便捷
+- 主列表、紧凑推荐行及级联子目录增加悬停收藏星标，点击即可收藏或取消。
+- 收藏操作不会触发跳转，也不会关闭目录菜单。
+- 新建文件夹改为明确的“文件夹图标＋文字”按钮，创建前显示父目录；级联目录支持直接在本级创建，保留 Ctrl+Shift+N。
+新增「此电脑」入口
+快速访问桌面、下载、文档、图片，以及磁盘和已映射网络盘。
+界面更统一
+- 调整中性黑灰配色，减轻大面积灰块和边框的视觉重量。
+- 统一图标尺寸、文字对齐及操作符号，改善小图标锯齿感。
+- 主列表、级联目录与图片预览保持一致风格，延续紧凑布局。
+搜索与跳转兼容性改进
+- 补充管理员权限 Quicker 与普通权限 Everything 之间的搜索回信兼容。
+- 全盘搜索暂不可用时保留已知目录，按 F5 可保留关键词重试。
+- 优化 Directory Opus 安装位置识别，减少对固定路径的依赖。
+- 改善选择文件夹窗口短暂失焦的处理，限制反复焦点切换时的等待，保留输入前后的目标校验。
+升级方式
+覆盖导入新版后，运行动作一次，替换旧后台实例。
+全盘搜索需要运行 Everything；收藏、已知目录、此电脑及级联浏览可独立使用。已完成原生文件对话框和多窗口回归测试，PS 插件窗口仍需实际使用确认。",2026-10-21
+文件属性查看器,https://getquicker.net/Sharedaction?code=2f503612-c983-4159-51f8-08df2d739eae,文件属性查看器,Windows 资源管理器,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,26.8 KB,2026-10-19 23:36,1,,2026-10-21
+图片工坊,https://getquicker.net/Sharedaction?code=c0112a4f-44bb-4877-957f-dd00ef376b89,把重复处理交给图片工坊：拖入图片或文件夹，批量压缩、转换、改尺寸、加水印、拼长图，也能生成 PDF 和 GIF。先看实际输出效果，再整批导出；图片在本机处理，默认保留原图。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,659.8 KB,2026-10-19 20:44,2,"图片工坊｜源码发布架构大版本重构
+
+本次围绕程序发布、首次启动、版本缓存与第三方依赖进行架构重构。保留现有界面与操作流程，让处理能力保持完整，同时使动作中的执行代码可审查、依赖来源更明确。
+
+【发布架构重构】
+移除动作包内嵌的主程序 EXE 与 WebP 可执行程序，改为提供完整、未压缩的 C# 运行源码，不再通过压缩/Base64 释放可执行程序。动作包约 661 KB；窗口与任务栏 Logo、开源图标仍保留。
+
+【启动与缓存重构】
+首次运行调用 Windows .NET Framework 4.x 编译器，在本机从源码生成独立窗口；后续复用经过摘要检查的缓存。源码与资源变更使用不同缓存版本，本地程序损坏时重新编译；编译失败、超时和旧版窗口冲突提供明确诊断。仍使用普通权限窗口，不继承管理员 Quicker 权限。
+
+【第三方依赖独立管理】
+WebP 改为独立依赖，仅首次使用时下载 Google 官方 libwebp 1.6.0 Windows x64。下载包与 cwebp/dwebp 工具分别校验 SHA256；支持取消，下载失败显示原因及手动安装方式。主程序编译和 JPEG/PNG 等其他格式不依赖此下载，图片不会上传。
+
+【现有工作流完整保留】
+保留外部文件拖入、实际编码画质对比、批量压缩与格式转换、可视裁剪、文字/图片平铺水印、透明圆角、补边、旋转翻转、统一宽高拼图及 PDF/GIF 输出。默认生成新文件、保留原图；此前的编码缓存、大图加载反馈、超大拼图保护和失败提示继续保留。
+
+【验证与文档】
+通过源码首次编译、缓存复用和修复、WebP 下载/失败/取消/校验、功能回归、DPI 与连续操作压力测试。新版实际窗口已联合实测资源管理器拖入、压缩对比、100% 查看及导出；测试 JPG 从 67,195 字节降到 50,334 字节（减少 25.1%），784×950 尺寸保持不变，原图校验未变。该比例仅为测试样本，不代表固定压缩效果。
+网页补齐源码编译与依赖说明，保留四张无光标、无光晕配图。
+
+注意：首次打开需要本机编译，请稍候；缺少编译器请安装或修复 .NET Framework 4.8。WebP 需要 64 位 Windows 及首次下载网络。请先关闭旧窗口，导入并替换新版动作后再上传新修订。收录结果以平台审核为准。",2026-10-21
+属性-详细信息,https://getquicker.net/Sharedaction?code=18bff9ed-0d0b-4c98-a250-eb42016ac02f,显示被选中文件的属性对话框，并自动选择“详细信息”标签页,Windows 资源管理器,91音乐脑百斤,https://getquicker.net/User/378636/91%E9%9F%B3%E4%B9%90%E8%84%91%E7%99%BE%E6%96%A4,2.3 KB,2026-10-19 16:27,1,,2026-10-21
+GCS计算器,https://getquicker.net/Sharedaction?code=075f6329-791d-40b6-ea97-08df1b7a8a94,适合地面站计算（CAAC考试用）,通用,今天也是好天气🍖🍖,https://getquicker.net/User/489444/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E6%98%AF%E5%A5%BD%E5%A4%A9%E6%B0%94%F0%9F%8D%96%F0%9F%8D%96,74.9 KB,2026-09-27 10:58,7,提高使用体验,2026-10-21
+Quick剪贴板,https://getquicker.net/Sharedaction?code=4c2081e6-c5c1-4a0a-41d2-08dee2db153d,Quick剪贴板-功能增强，自带桌宠，可交互,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,113.4 KB,2026-07-16 11:07,25,修复同步参数,2026-10-21
+超级菜单 n10,https://getquicker.net/Sharedaction?code=2e6361fc-2d6c-442e-e199-08def9e1fa34,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,47.8 KB,2026-08-15 00:39,5,"## v0.31.23 (2026-10-20)
+
+- 修复部分电脑在开机早期自动启动时，可能提示 `overflow when subtracting duration from instant` 并退出的问题。
+- 改进设置窗口打开失败时的诊断信息。",2026-10-21
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,48.2 KB,2026-05-09 07:12,159,"## v0.31.23 (2026-10-20)
+
+- 修复部分电脑在开机早期自动启动时，可能提示 `overflow when subtracting duration from instant` 并退出的问题。
+- 改进设置窗口打开失败时的诊断信息。",2026-10-21
+优化鸭,https://getquicker.net/Sharedaction?code=2b9514fe-d7da-41c0-9228-08ded4b95411,optimizerDuck 是一款免费的开源 Windows 优化工具，专注于性能、隐私和简洁性。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,310.1 KB,2026-06-28 17:07,3,【优化】更新软件版本,2026-10-21
+离开一下,https://getquicker.net/Sharedaction?code=37af182f-6608-4f19-eb61-08df2c57ecc1,完美锁定微信+windows锁屏+天依蓝,通用,kxdd,https://getquicker.net/User/1450213/kxdd,6.4 KB,2026-10-18 13:04,3,微信在托盘状态时节省0.5秒,2026-10-21
+Geek,https://getquicker.net/Sharedaction?code=67461597-57e3-4f6f-0e8a-08dcfcb28eec,一个既简单又好用的卸载软件—Geek,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,287.9 KB,2024-11-05 16:57,13,  【优化】更新软件版本,2026-10-21
+超超超高效剪贴,https://getquicker.net/Sharedaction?code=19bc3f75-e37e-4fee-5ae5-08df279cd207,超超超高效的剪贴方法！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,864.5 KB,2026-10-12 23:56,8,选区识别修复,2026-10-21
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,558.4 KB,2023-01-07 19:44,124,~修复部分规则匹配失效的问题。,2026-10-21
+应用抽屉,https://getquicker.net/Sharedaction?code=7c39547b-f995-4df5-b084-2e196ecf289b,把常用程序、文件夹、网址、Quicker 动作与常用文本整理成可点击磁贴,通用,killy2956,https://getquicker.net/User/108017/killy2956,911.7 KB,2026-10-10 15:44,10,"- 新增：增加跳转上一个操作点（后退），默认快捷键：ctrl+<、鼠标 X1
+ 增加跳转下一个操作点（前进），默认快捷键：ctrl+>、鼠标 X2
+ 此功能需要在设置中新增两项配置：1: 快捷键操作方式、2：鼠标操作方式
+- 优化：磁贴、详细界面中文件浮窗中增加文件\文件夹名
+- 优化：页签栏增加鼠标中间关闭页签
+- 优化：其他操作优化",2026-10-21
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,28.8 KB,2022-05-29 21:42,118,"## v0.8.314 (2026-10-20)
+
+- 修复 Quicker V2 中超级菜单单击文件、双击文件夹没有反应，只能右键定位的问题，恢复按系统默认方式打开文件、文件夹和链接。",2026-10-21
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,31.3 KB,2022-04-18 22:22,238,"## v0.8.314 (2026-10-20)
+
+- 修复 Quicker V2 中超级菜单单击文件、双击文件夹没有反应，只能右键定位的问题，恢复按系统默认方式打开文件、文件夹和链接。",2026-10-21
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,29.1 KB,2021-02-03 14:35,286,"## v0.8.314 (2026-10-20)
+
+- 修复 Quicker V2 中超级菜单单击文件、双击文件夹没有反应，只能右键定位的问题，恢复按系统默认方式打开文件、文件夹和链接。",2026-10-21
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步、多设备同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,161 KB,2026-04-16 18:41,124,"删除后保留操作位置
+加入常用后提示，并支持短暂撤销
+切换条目时保护编辑草稿
+“发送”改为“发送到手机”，修正描述",2026-10-21
+AI 聚聊,https://getquicker.net/Sharedaction?code=db2043e6-0009-4167-b310-ccf886fa31d3,一个窗口，畅聊多个 AI。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,401.8 KB,2026-10-16 15:41,12,"1、增加更多网站可选
+2、增加分组功能
+3、调整夜间模式适配情况
+4、调整其他细节",2026-10-21
+文本处理,https://getquicker.net/Sharedaction?code=d42764bc-4ec3-441d-be77-08dbdcf87739,整合多个文本相关动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,505.4 KB,2023-11-05 00:05,44,"右键菜单增加了兼容性设置, 可选自动, 指定新版/旧版. (部分旧版功能不再支持)",2026-10-21
+极速压缩,https://getquicker.net/Sharedaction?code=8a356fcc-7e60-4b41-6f8b-08ddfbbade2e,一键 无感 极速 压缩/解压缩文件,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,30.1 KB,2025-09-25 14:03,5,调整细节,2026-10-21
+悬停启动,https://getquicker.net/Sharedaction?code=d84a2bd6-6296-4dab-5b0a-08df12a00eea,超好用的动作拓展，不用点击就能启动动作！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,408.2 KB,2026-09-16 00:12,20,二级卡片显示优化，延展出的卡片可以拖动交换位置,2026-10-21
+短语补齐,https://getquicker.net/Sharedaction?code=a9fbc7b2-c0dc-4469-5d02-08de7934c17b,‎通过表达式传递菜单参数激活。,通用,Anlv,https://getquicker.net/User/392637/Anlv,34.6 KB,2026-03-04 14:56,15,"1. 微信兼容增强(UIA回退);
+2. 跳过 PrtSc 键的取消选词.",2026-10-21
+随手传,https://getquicker.net/Sharedaction?code=2d11f5fa-968f-4811-8982-f9d494118264,兼容 LocalSend（v2.x）的局域网收发工具：电脑不用再装 LocalSend，在手机 LocalSend 里选中本机即可互传，文件不经过云端。接收有确认卡片、可逐设备收藏免确认，支持接收历史与自定义保存目录（默认取系统真实下载文件夹）。发送支持文件、文件夹、文本、剪贴板混合成一批。界面为无边框自定义窗口，可跟随 Quicker 主题，关闭后退到托盘常驻。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,196.9 KB,2026-10-03 18:41,4,~修复随quicker启动时，无法最小化到托盘的问题。,2026-10-21
