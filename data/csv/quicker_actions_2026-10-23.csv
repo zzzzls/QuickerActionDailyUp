@@ -1,0 +1,56 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+移图复制,https://getquicker.net/Sharedaction?code=3ea1d13c-7d58-435f-2379-08df3024a734,移动图片到指定文件夹，再复制,通用,Poto,https://getquicker.net/User/137838/Poto,29.9 KB,2026-10-22 23:40,1,,2026-10-23
+网页转PDF,https://getquicker.net/Sharedaction?code=744df096-db35-4774-8312-611ffcd3f319,取当前 Edge/Chrome 活动标签页网址，用无头 Edge(CDP) 重新渲染并导出整页原宽 PDF （按打印媒体的真实内容高度出图，不限 A4、不分页），保存到系统临时目录 %TEMP%\Web2PDF 并自动用默认程序打开，同时把文件放入剪贴板便于直接粘贴。转换核心已编译为独立 exe 缓存于 %TEMP%\QuickerWeb2PDF\，首次运行自动编译，之后秒开。 右击动作图标可用菜单切换：PDF / PNG 长图（1x、2x、3x）、页边距，或用「自定义」 弹窗自由设定分辨率倍数与页边距。转换期间右下角显示实时进度条。,浏览器通用,ttChen,https://getquicker.net/User/395924/ttChen,41.5 KB,2026-10-22 20:16,2,去掉edge-page-to-pdf 技能依赖,2026-10-23
+一键启动,https://getquicker.net/Sharedaction?code=a431bced-690b-4586-1588-08df2f365d58,一键启动、进入微信和QQ,通用,hxx508,https://getquicker.net/User/1429120/hxx508,19 KB,2026-10-22 15:46,3,"1、自动识别微信、QQ的安装路径
+2、优化官网提出的建议",2026-10-23
+获取视频信息,https://getquicker.net/Sharedaction?code=39b53fec-2c5a-4822-a4da-847b683891f3,从选择的多个视频文件或文件夹中提取视频主要信息（容器、时长、分辨率、帧率、视频/音频编码、码率、音轨字幕数量、文件大小）， 使用本机 ffprobe 解析，并在文本窗口中汇总显示。,通用,玄策心,https://getquicker.net/User/1098015/%E7%8E%84%E7%AD%96%E5%BF%83,21.9 KB,2026-10-22 14:18,1,,2026-10-23
+摇摇置顶,https://getquicker.net/Sharedaction?code=19133259-0939-484f-9bc7-0f0e159afb56,"比较简单,拖住窗口标题栏左右摇一摇，即可切换置顶。支持调节置顶窗口调节透明度和鼠标穿透。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,48.8 KB,2026-10-22 13:25,1,,2026-10-23
+PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共71种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,361.3 KB,2022-11-02 15:54,93,~修复一下配置文件下载失败的问题。,2026-10-23
+百度翻译,https://getquicker.net/Sharedaction?code=97043661-cfa2-4c75-6fe2-08de4d5ff10f,大模型翻译；选中文本翻译，否则截图翻译，按住ctrl读取剪贴板内容翻译,通用,Simonl,https://getquicker.net/User/134191/Simonl,71 KB,2026-01-07 04:12,7,"1.面板加个钉住功能
+2.译文内容支持鼠标框选复制",2026-10-23
+鸣潮声骸评分,https://getquicker.net/Sharedaction?code=13104a3d-6ce8-40d8-fc71-08ddc017ed62,鸣潮声骸评分计算器,通用,碎片哒哟,https://getquicker.net/User/609131/%E7%A2%8E%E7%89%87%E5%93%92%E5%93%9F,186.6 KB,2025-07-11 17:33,25,🔸 权重表更新：锁暝,2026-10-23
+勇芳计算器,https://getquicker.net/Sharedaction?code=3291b161-9945-43bc-7ec7-08dd23adddae,『勇芳计算器』是一款简单易用的多功能、多行、表达式计算工具，操作就如计事本软件，不用学就会用，好象是你在一张白纸上写计算式，电脑自动填入结果，而且每次的计算都还保留着，随时可修改或查阅。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,375.5 KB,2024-12-25 07:13,12,  【优化】更新软件版本,2026-10-23
+应用抽屉,https://getquicker.net/Sharedaction?code=7c39547b-f995-4df5-b084-2e196ecf289b,把常用程序、文件夹、网址、Quicker 动作与常用文本整理成可点击磁贴,通用,killy2956,https://getquicker.net/User/108017/killy2956,809.6 KB,2026-10-10 15:44,12,"- 新增：页签分组、分组锁定
+  - 页签管理器中新增分组功能, 分组管理统一在页签管理器进行。
+  - 各个分组中的页签独立管理。
+  - 点击分组可快速切换分组，切换分组后，当前页签列表采用对应分组的数据。
+  - 已锁定的分组，不能删除页签，更不能删除分组。",2026-10-23
+Quick随手连,https://getquicker.net/Sharedaction?code=7d9b0bf8-8363-4261-122c-08df146c665c,通过Quicker长连接，在手机启动动作和应用，同步数据和记事,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1.6 MB,2026-09-17 22:45,16,修复上版问题,2026-10-23
+目录随行ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=7f0700f8-73d7-49d0-a9c9-08df243a98df,收藏、最近、当前打开、剪贴板目录随存选窗口出现，快速跳转目录,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,947.5 KB,2026-10-08 08:52,13,修复2.0连接不上everything的问题,2026-10-23
+最近文件ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=754b8643-2c44-4fdb-ca11-08df16d477bc,列出最近下载、修改的文件，快速打开、复制、定位、重命名和归档。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,523.5 KB,2026-09-20 14:56,23,"-激活面板位置支持更多选项
+-重命名窗口加大",2026-10-23
+Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,Edge收藏夹垂直显示，快捷同步管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,134.1 KB,2026-08-21 09:26,12,优化运行逻辑,2026-10-23
+超超超高效剪贴,https://getquicker.net/Sharedaction?code=19bc3f75-e37e-4fee-5ae5-08df279cd207,超超超高效的剪贴方法，已开发20+种手势！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,863.7 KB,2026-10-12 23:56,10,2.0适配,2026-10-23
+AI 聚聊,https://getquicker.net/Sharedaction?code=db2043e6-0009-4167-b310-ccf886fa31d3,一个窗口，畅聊多个 AI。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,610.4 KB,2026-10-16 15:41,18,增加恢复上一轮对话功能,2026-10-23
+超级菜单 n10,https://getquicker.net/Sharedaction?code=2e6361fc-2d6c-442e-e199-08def9e1fa34,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,47.9 KB,2026-08-15 00:39,8,"## v0.31.28 (2026-10-21)
+
+- 修复历史外观配置的新旧字段名共存时，提示“WindowBackgroundColor 有重复新旧/大小写名称”并无法启动的问题。读取兼容历史名称，保存时统一为一个字段，不重置用户配置。
+- 超级菜单的窗口分类恢复为紧凑列表与级联菜单，移除窗口图片轮播。
+- 悬停或点击窗口行查看标题、句柄、类名、进程名、进程路径和位置，可复制单项或完整信息；查看信息保持外部窗口的输入焦点。
+- 右键窗口打开管理菜单，保留置顶、最小化、最大化、居中、不透明度及已有管理命令；激活窗口通过明确的菜单命令执行。
+- 本版仅提供 Windows x64 包。Quicker V1 / V2 入口更新为 0.31.27.1，统一下载和加载 x64 宿主，暂时关闭 ARM64 自动选择。
+- 继续使用原有历史、收藏、配置和图片目录，不移动用户数据。
+
+剪贴板 n10 与超级菜单 n10 同步使用宿主 `0.31.28.0`，Quicker V1/V2 入口更新为 `0.31.27.1`。",2026-10-23
+调整线条宽度为1,https://getquicker.net/Sharedaction?code=77923553-551d-4084-0c27-08da45d22d56,调整线条粗细,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,16.8 KB,2022-06-04 10:36,1,更高级的界面调整，带滑块,2026-10-23
+路径直达,https://getquicker.net/Sharedaction?code=1aaaa929-df63-4013-a03a-478d827e1888,"参考Listary, 搜索目录、快速跳转，让打开与保存更顺手 。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,524.2 KB,2026-10-19 14:00,6,"v0.58.1-preview 累计更新【新增功能】
+- 新增设置中心，可调整主题、强调色、字体、窗口宽度、列表密度及显示行数。
+- 支持“单行路径／文件夹名＋路径”两种显示方式。
+- 新增 OneCommander 支持、可选的工作目录自动跟随及 Ctrl＋数字快捷跳转。
+- 浮窗支持自由拖动，并记住位置。
+- 新增本地备份恢复与诊断信息复制。
+【体验优化】
+- 统一 Fluent 风格和彩色操作图标，目录保留 Windows 原生图标。
+- 另存为保留底部快捷入口，快捷键浮窗近期路径常驻，分类目录按需展开。
+- 优化分类、子目录和图片预览的展开收起，减少误收起。
+- 优化搜索输入、列表刷新、设置切换及外观应用，减少卡顿和闪烁。
+- 目录来源独立后台读取，慢来源超时保留缓存；关闭来源后旧结果不再回填。
+- 修复设置窗口启动、遮挡和分类弹层显示等问题，增强备份恢复与连续操作稳定性。
+覆盖导入后重新运行动作生效，原有配置兼容保留。",2026-10-23
+短语补齐,https://getquicker.net/Sharedaction?code=a9fbc7b2-c0dc-4469-5d02-08de7934c17b,‎通过表达式传递菜单参数激活。,通用,Anlv,https://getquicker.net/User/392637/Anlv,34.9 KB,2026-03-04 14:56,17,"支持粘贴文件
+产品资料|f:""G:\素材库\产品图片 01.png"" ""G:\产品资料\使用说明.pdf""",2026-10-23
+计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,免费且强大的计算器，公式、历史、贴边、语音、深色、单位换算,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,217.7 KB,2024-06-13 00:30,115,变量问题,2026-10-23
+Word表格填充序列,https://getquicker.net/Sharedaction?code=490d9e54-f92b-40cd-0dfa-08d7e595cc29,用自然数序列递增填充,Microsoft Word,wx,https://getquicker.net/User/22324/wx,2.8 KB,2020-04-21 16:07,2,用ai重写了,2026-10-23
+Word选中所有表格,https://getquicker.net/Sharedaction?code=9354c764-e0d3-4687-9a0d-08d89e20bcf7,选中Word所有表格,Microsoft Word,wx,https://getquicker.net/User/22324/wx,5.4 KB,2020-12-13 00:08,2,用ai重写了一遍,2026-10-23
+剪贴板大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板历史记录与智能分类收藏管理工具，支持文本、图片、文件、步骤的监控、收藏与快捷粘贴。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,1.3 MB,2026-06-27 14:51,41,修复从浏览器复制的富文本发送到txt窗口最后一个字符乱码的bug,2026-10-23
+屏幕找字Pro,https://getquicker.net/Sharedaction?code=61e00e85-12a2-40e9-8edb-5ce52631efdc,输入多个关键词，一次在屏幕上标出全部出现位置，可逐个查看,通用,astroStar,https://getquicker.net/User/178545/astroStar,40.1 KB,2026-10-20 23:18,2,优化,2026-10-23
