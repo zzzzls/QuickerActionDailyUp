@@ -54,3 +54,31 @@ Word表格填充序列,https://getquicker.net/Sharedaction?code=490d9e54-f92b-40
 Word选中所有表格,https://getquicker.net/Sharedaction?code=9354c764-e0d3-4687-9a0d-08d89e20bcf7,选中Word所有表格,Microsoft Word,wx,https://getquicker.net/User/22324/wx,5.4 KB,2020-12-13 00:08,2,用ai重写了一遍,2026-10-23
 剪贴板大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板历史记录与智能分类收藏管理工具，支持文本、图片、文件、步骤的监控、收藏与快捷粘贴。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,1.3 MB,2026-06-27 14:51,41,修复从浏览器复制的富文本发送到txt窗口最后一个字符乱码的bug,2026-10-23
 屏幕找字Pro,https://getquicker.net/Sharedaction?code=61e00e85-12a2-40e9-8edb-5ce52631efdc,输入多个关键词，一次在屏幕上标出全部出现位置，可逐个查看,通用,astroStar,https://getquicker.net/User/178545/astroStar,40.1 KB,2026-10-20 23:18,2,优化,2026-10-23
+面板书签,https://getquicker.net/Sharedaction?code=836b0bc7-1c68-45d3-afc5-7b85a22af795,保留 Quicker 面板跟随，支持30天回收站、最近20次操作撤销、常用前20条与次数重置、组内和置顶排序、批量整理、全库搜索及位置记忆。浏览器按文件夹预览更新并选择重复网址策略，云端备份独立显示状态。,通用,"a,xing","https://getquicker.net/User/923841/a,xing",488 KB,2026-10-23 09:09,1,,2026-10-23
+摇摇置顶,https://getquicker.net/Sharedaction?code=19133259-0939-484f-9bc7-0f0e159afb56,"比较简单,拖住窗口标题栏左右摇一摇，即可切换置顶。支持调节置顶窗口调节透明度和鼠标穿透。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,55 KB,2026-10-22 13:25,2,"新增侧边图钉右键快捷菜单：
+- 快速设置不透明度：100%、80%、60%、40%。
+- 单独关闭鼠标穿透，保留置顶和当前不透明度。
+- 保留窗口设置及取消置顶入口。
+更新前请先在旧动作右键菜单选择“恢复并退出”。",2026-10-23
+鹈鹕测试,https://getquicker.net/Sharedaction?code=f3df3381-ec17-41ce-a9a1-9642595206c8,多字段表单配置接口和提示词，各字段独立保存；账号加密记忆密钥，异步获取模型，生成最多等待10分钟，使用React预览HTML。,通用,h0zr,https://getquicker.net/User/945817/h0zr,48 KB,2026-10-22 00:40,2,"新增剪贴板连接导入：打开动作时自动识别 newapi_channel_conn 格式并填入 URL 和 API Key；Base URL 右侧增加手动导入文本工具。
+导入前校验连接类型、地址和密钥；手动导入失败时显示明确提示。导入成功后沿用 600 毫秒防抖异步获取模型及账号加密保存密钥。",2026-10-23
+远程音频切换,https://getquicker.net/Sharedaction?code=b2a0941a-51cc-44f7-2378-08df3024a734,一键同时切换默认扬声器和麦克风：UU远程虚拟音频设备 ↔ Realtek USB Audio，保留默认通讯设备。,通用,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,53.1 KB,2026-10-22 22:47,1,,2026-10-23
+查找动作V3,https://getquicker.net/Sharedaction?code=cfff2e0a-d764-43d4-d4da-08df2a725ba0,统一搜索与历史选择；记录右键置顶/取消置顶；同区拖动排序并保存；完整名称回车运行。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,63.8 KB,2026-10-16 10:50,2,增加了记录置顶功能，并且可以直接拖动记录进行置顶记录之间的排序,2026-10-23
+Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,Edge收藏夹垂直显示，快捷同步管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,138.7 KB,2026-08-21 09:26,13,优化初次加载菜单的速度,2026-10-23
+窗口贴边速切,https://getquicker.net/Sharedaction?code=4cb41eae-275d-4ce9-9a4e-80471b03c0c7,把已打开的软件放到当前窗口边缘。单击切换、滚轮轮换、一键返回；支持四边贴靠、自定义顺序与最大化自动收起。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,389.1 KB,2026-10-10 11:42,14,"V2 preview.43 更新说明
+本次重点优化切换交互：先预选，松开 Alt 后再切换，浏览过程中不再反复弹出中间应用。
+- 应用预选：按住 Alt 滚动选择应用，松开后切换到最终目标。
+- 窗口预选：Alt+Shift+滚轮选择同软件窗口；含 Alt 的全局切换快捷键同样支持。
+- 提示更稳定：按住 Alt 时持续显示目标与窗口标题，面板位置保持稳定。
+- 随时取消：Esc 取消预选；打开设置、转向其他窗口或目标关闭时自动取消。
+- 保留原有体验：应用顺序、原始图标及切换成功后的最小化规则保持不变。
+在「设置中心 → 快捷键 → 组合键与滚轮」开启 “Alt 切换时先预选，松开 Alt 后确认”。原提示开关状态自动沿用，关闭后恢复即时切换。",2026-10-23
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,48.2 KB,2026-05-09 07:12,163,"## v0.31.29 (2026-10-22)
+
+- 修复旧收藏条目残留子项信息时，提示“C# 非收藏夹条目包含 Children”并无法启动的问题；兼容读取并保留原始数据。
+- 历史、收藏或使用统计出现单条格式异常时，保留异常记录并以只读保护启动，可以查看其余正常内容。
+- 只读保护期间暂停业务写入与自动清理，保留收藏目录顺序、引用和未完成的操作记录，防止部分数据被当作完整结果覆盖保存。
+- 提供异常记录的定位信息，便于进一步恢复；原数据修复后重启即可重新加载。
+- 继续使用原有历史、收藏、配置和图片目录，本版仅提供 Windows x64 包。
+
+剪贴板 n10 使用宿主 `0.31.29.0`，Quicker V1/V2 入口继续使用 `0.31.27.1`。",2026-10-23
