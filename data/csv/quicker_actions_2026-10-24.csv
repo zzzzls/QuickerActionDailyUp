@@ -1,0 +1,138 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+快速摘录,https://getquicker.net/Sharedaction?code=7d46d482-79a8-47cb-7997-08df3116f4d8,快速摘录,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,11.3 KB,2026-10-23 23:55,1,,2026-10-24
+窗口信息快取,https://getquicker.net/Sharedaction?code=aec15cae-3078-4321-7996-08df3116f4d8,窗口信息快取,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,6.4 KB,2026-10-23 23:17,1,,2026-10-24
+信息面板,https://getquicker.net/Sharedaction?code=e0d2b8a3-be38-433e-ad17-6bfe84c04d7d,包含时间、蓝牙、亮度、音频设备等多项信息，并可调节,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,125.2 KB,2026-10-23 20:52,2,1,2026-10-24
+面板书签,https://getquicker.net/Sharedaction?code=836b0bc7-1c68-45d3-afc5-7b85a22af795,保留 Quicker 面板跟随，支持30天回收站、最近20次操作撤销、常用前20条与次数重置、组内和置顶排序、批量整理、全库搜索及位置记忆。浏览器按文件夹预览更新并选择重复网址策略，云端备份独立显示状态。,通用,"a,xing","https://getquicker.net/User/923841/a,xing",532 KB,2026-10-23 09:09,4,优化编辑后卡顿现象,2026-10-24
+网页转PDF,https://getquicker.net/Sharedaction?code=744df096-db35-4774-8312-611ffcd3f319,取当前 Edge/Chrome 活动标签页网址，用无头 Edge(CDP) 重新渲染并导出整页原宽 PDF （按打印媒体的真实内容高度出图，不限 A4、不分页），保存到系统临时目录 %TEMP%\Web2PDF 并自动用默认程序打开，同时把文件放入剪贴板便于直接粘贴。转换核心已编译为独立 exe 缓存于 %TEMP%\QuickerWeb2PDF\，首次运行自动编译，之后秒开。 右击动作图标可用菜单切换：PDF / PNG 长图（1x、2x、3x）、页边距，或用「自定义」 弹窗自由设定分辨率倍数与页边距。转换期间右下角显示实时进度条。,浏览器通用,ttChen,https://getquicker.net/User/395924/ttChen,29.7 KB,2026-10-22 20:16,3,"1. 进一步剔除依赖；
+2. 功能完善",2026-10-24
+自动助手PRO,https://getquicker.net/Sharedaction?code=b79c04c5-05f8-41ad-c791-08df09b42b29,录制键鼠找图操作，脚本化自动重复执行,通用,云淡风轻11,https://getquicker.net/User/427521/%E4%BA%91%E6%B7%A1%E9%A3%8E%E8%BD%BB11,460.8 KB,2026-09-04 17:37,14,"1.新增复制粘贴步骤是通知开关设置
+2.增加从当前步骤开始运行（注意有变量的默认取第一次变量）
+3.修复偶现BUG现象
+4.设置内新增空间管理，可管理录制文件、找图图片、脚本等
+5.步骤列表增加了点色彩",2026-10-24
+标准快查,https://getquicker.net/Sharedaction?code=ea7aa23b-3558-4a1d-2eaa-08dda990399d,通过工标网批量快速查询规范标准,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,177.8 KB,2025-06-12 18:19,8,V2版本，彻底重构动作，交互体验升级。,2026-10-24
+应用抽屉,https://getquicker.net/Sharedaction?code=7c39547b-f995-4df5-b084-2e196ecf289b,把常用程序、文件夹、网址、Quicker 动作与常用文本整理成可点击磁贴,通用,killy2956,https://getquicker.net/User/108017/killy2956,832.3 KB,2026-10-10 15:44,13,- 新增：双击页签格空白处也能弹出该格右键菜单（与右键同一套菜单；非焦点页签格自动切换焦点；空页签格不弹）,2026-10-24
+微信秒传,https://getquicker.net/Sharedaction?code=4b4835e3-6d71-49b4-2589-08ddbd2201ae,极速发送至微信好友！4.X微信版本用！,WeChat,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,207.9 KB,2025-07-08 15:17,13,"完整名称回读一致后才回车，不等待网络建议。
+超时或焦点切走就停止，避免继续误粘贴。",2026-10-24
+图标管理,https://getquicker.net/Sharedaction?code=17b78d43-8bc7-4200-a090-08d9ac50b9f2,,通用,Cea,https://getquicker.net/User/113342/Cea,26.6 KB,2021-11-21 22:42,62,"## v0.8.316 (2026-10-23)
+
+- 修复打开图标管理时，等待云端收藏会禁用整个列表的问题；云同步期间仍可浏览、搜索、预览和复制图标。
+- 本地读取、保存及云请求改为后台执行，减少界面停顿；打开窗口后立即聚焦搜索框。
+- 修复加载期间切换来源后被强制切回收藏，以及关闭重开后旧请求干扰新窗口的问题。
+- 保留原有收藏、云端合并及保存保护，本机动作继续通过公共子程序调用。",2026-10-24
+轮盘归档ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=8d9ade47-8793-4cd4-48c3-08df17ac3ed0,用多层展开的轮盘选择目录，将文件移动或复制进去。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.5 MB,2026-09-22 11:14,14,美化轮盘面板,2026-10-24
+超超超高效剪贴,https://getquicker.net/Sharedaction?code=19bc3f75-e37e-4fee-5ae5-08df279cd207,超超超高效的剪贴方法，已开发20+种手势！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,908 KB,2026-10-12 23:56,12,默认设置更新,2026-10-24
+目录直达,https://getquicker.net/Sharedaction?code=758b41ff-6366-4612-8963-3e0ba3aa6914,在“打开/另存为”文件对话框旁贴一个常驻面板：输入即用 Everything 实时搜索， 一键把对话框跳到目标目录（选到文件则直接定位该文件）。支持系统库与自定义收藏、 关键词历史、类型筛选与排序；对话框不在前台时自动隐藏，不运行时零开销。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,129.7 KB,2026-10-03 11:20,6,"+新增历史记录页面
++搜索框右侧新增匹配路径按钮。",2026-10-24
+密码输入,https://getquicker.net/Sharedaction?code=ec185656-ba79-4c25-4ca1-08df06f9acde, 一个简单实用的 Quicker 小动作，让重复的密码输入变得更轻松。设置一次，以后一步到位！,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,7.8 KB,2026-08-31 08:49,2,"增加了手动修改密码，一次修改，长期使用
+多次安装，可以设置不太密码",2026-10-24
+定价计算器,https://getquicker.net/Sharedaction?code=b1ef3b07-01a8-4f97-9e36-d3fe35e28651,确保利润·防止凑单亏损·给出建议售价,通用,孚尹E,https://getquicker.net/User/603176/%E5%AD%9A%E5%B0%B9E,50.5 KB,2026-10-07 13:14,12,界面优化,2026-10-24
+超级菜单 n10,https://getquicker.net/Sharedaction?code=2e6361fc-2d6c-442e-e199-08def9e1fa34,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,47.9 KB,2026-08-15 00:39,9,"## v0.31.31 (2026-10-23)
+
+- 超级菜单 n10 同步更新至 Rust / GPUI 宿主 0.31.31，补齐 0.31.29 以来的修复。
+- 修复旧收藏条目残留子项信息时提示“C# 非收藏夹条目包含 Children”并无法启动的问题，兼容读取并保留原始数据。
+- 历史、收藏或使用统计出现单条格式异常时，保留异常记录并以只读保护启动；暂停业务写入和自动清理，保留收藏目录顺序、引用及未完成的操作记录。原数据修复后重启即可重新加载。
+- 修复便捷粘贴候选加载期间，快速按下 1／2、E、Q、D 或方向键时操作可能丢失、错序的问题。
+- 修复按 Q 准备连续粘贴后，再选择贴图等行操作或 E“粘贴并回车”时无反应的问题；仅准备队列时松键仍不自动粘贴。
+- 修复关闭 E“粘贴并回车”后仍吞掉 E，以及便捷粘贴按键误触发后方主窗口搜索的问题；额外修饰键组合交还前台应用，避免干扰系统快捷键。
+- 修复松开快捷键后立即按 Esc 仍发生粘贴的问题。连续粘贴浮层内按 Esc 同时取消本次队列，长按不会继续关闭底层窗口，旧取消也不会影响新队列。
+- 修复单键快捷键、快速松键及输入中断时的会话残留，避免浮窗卡住或迟到显示。
+
+Rust 宿主最低版本更新至 0.31.31.0；入口 DLL 继续使用 0.31.27.1。本版仅提供 Windows x64 包，原有历史、收藏、配置和图片目录继续保留。",2026-10-24
+Bing壁纸,https://getquicker.net/Sharedaction?code=23be35ee-93ab-493e-f58b-08df189dd4ad,一个纯粹的 Bing 每日壁纸浏览工具，支持查看、下载、一键设为桌面壁纸。,通用,ofe1,https://getquicker.net/User/1137763/ofe1,126.7 KB,2026-09-23 17:37,3,"- 缩略图加载更快
+- 历史下载图片更快
+- 优化界面UI,提示更友好",2026-10-24
+动作快捷方式,https://getquicker.net/Sharedaction?code=5c888b16-6445-45e5-e68a-08ddeca83610,一键创建动作快捷方式到桌面，支持原版图标、传参,Quicker,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,16.4 KB,2025-09-06 02:45,3,适配V2,2026-10-24
+重开,https://getquicker.net/Sharedaction?code=347689f7-7bab-42b7-1b75-08da8ae0e8b9,重新打开关闭的资源管理器窗口,通用,Cea,https://getquicker.net/User/113342/Cea,32.9 KB,2022-08-31 23:21,45,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+连续粘贴,https://getquicker.net/Sharedaction?code=4275a6b3-af4f-4a66-4731-08da2019a39f,剪贴板附加动作,通用,Cea,https://getquicker.net/User/113342/Cea,45.3 KB,2022-04-18 14:35,45,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+剪贴板粘贴第二项,https://getquicker.net/Sharedaction?code=e80156dd-bc25-46d5-c0cf-08da1b59015d, ,通用,Cea,https://getquicker.net/User/113342/Cea,26.4 KB,2022-04-11 21:25,40,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+剪贴板无焦点,https://getquicker.net/Sharedaction?code=818dd30d-a759-4779-d4ca-08db111f8bc2,剪贴板动作无焦点模式，但无法使用键盘操作,通用,Cea,https://getquicker.net/User/113342/Cea,28.4 KB,2023-02-18 15:18,40,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+网址收藏,https://getquicker.net/Sharedaction?code=50a2a02f-7189-418c-1c7d-08d95d50ce36,"集锦 配套动作, 收藏浏览器当前网址即可完成收藏",通用,Cea,https://getquicker.net/User/113342/Cea,26.7 KB,2021-08-13 15:13,45,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+选中收藏,https://getquicker.net/Sharedaction?code=51fc92f5-10c2-41f7-1c7c-08d95d50ce36,"集锦 配套动作, 选中文本即可完成收藏",通用,Cea,https://getquicker.net/User/113342/Cea,26.8 KB,2021-08-13 15:12,44,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+集锦,https://getquicker.net/Sharedaction?code=44f708d3-3dc6-4b6e-194c-08d95b8499a1,如题,通用,Cea,https://getquicker.net/User/113342/Cea,29 KB,2021-08-11 01:17,45,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+CeaBox,https://getquicker.net/Sharedaction?code=77cdb73e-07de-4705-d8d0-08da0c387041,搜索框，收藏夹，剪贴板，聚合,通用,Cea,https://getquicker.net/User/113342/Cea,31.9 KB,2022-03-24 01:24,46,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+捷径面板3.0,https://getquicker.net/Sharedaction?code=4b3b6a69-15b9-4ca1-447b-08da37d44e37,捷径面板3.0,通用,Cea,https://getquicker.net/User/113342/Cea,27.6 KB,2022-05-17 21:55,75,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+书签菜单,https://getquicker.net/Sharedaction?code=a50d39ba-b07c-459e-347c-08da7d9afa4f,浏览器书签，菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26.5 KB,2022-08-14 23:25,43,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+窗口菜单,https://getquicker.net/Sharedaction?code=c3336884-f4cb-46b9-da4e-08da76a0d1ac,可用于快速切换窗口,通用,Cea,https://getquicker.net/User/113342/Cea,26.8 KB,2022-08-05 15:56,42,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+文本菜单,https://getquicker.net/Sharedaction?code=54dc3640-79ab-4223-a073-08da8515cad0,选中快速替换文本,通用,Cea,https://getquicker.net/User/113342/Cea,27.2 KB,2022-08-24 17:19,45,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26.6 KB,2022-05-29 21:42,119,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,29 KB,2022-04-18 22:22,239,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,26.9 KB,2021-02-03 14:35,287,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+文件菜单,https://getquicker.net/Sharedaction?code=5042d4d2-2979-4fff-4a25-08da404596c9, ,通用,Cea,https://getquicker.net/User/113342/Cea,30.8 KB,2022-05-28 19:12,54,"## v0.8.315 (2026-10-23)
+
+- 更新 Legacy 启动入口与依赖至 0.8.315，补齐长期未同步的公开动作版本。
+- 继续在 Quicker 内运行，使用 Legacy 专用入口，并按 Quicker V1 / V2 获取对应依赖包。",2026-10-24
+网页魔术师,https://getquicker.net/Sharedaction?code=789f963f-ee55-426c-4f8c-08de2d75a2ca,网页全能编辑/解除限制/提取表格/获取图片......一个动作顶二十个动作！,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.2 MB,2025-11-28 14:37,23,"各个功能支持删除移入回收站，移入后不会再其他功能分类中出现。
+新增文章目录功能",2026-10-24
+路径直达,https://getquicker.net/Sharedaction?code=1aaaa929-df63-4013-a03a-478d827e1888,"参考Listary, 搜索目录、快速跳转，让打开与保存更顺手 。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,556.4 KB,2026-10-19 14:00,7,"v0.58.12-preview 更新说明
+- 目录跳转更安全：统一检查目录点击、自动跟随、Ctrl+G、返回上次目录等入口，只切换目录，不触发保存或打开，保留文件名和保存类型。
+- 底部入口更便捷：搜索和分类栏始终显示，收起仅隐藏目录列表和底栏；工具集中排列，去除重复入口。
+- 工具栏更精致：优化分类与工具分组、选中底色、按钮点击范围及展开箭头，修正调整宽度后按钮裁剪的问题。
+- 新增 WPS 兼容预览：支持识别 WPS 本地另存为／打开窗口并显示底部入口，实际兼容性仍待更多使用验证。
+- 改善高 DPI 显示：修复设置中心在高缩放、大字体下文字裁剪和控件拥挤的问题。
+- 完善收藏拖拽反馈：准确识别有效排序位置，避免只读收藏、分组标题等无效位置显示可移动状态。
+- 提升稳定性与流畅度：针对启动、快捷键唤起时的 Win32 父窗口异常进行修正；优化首次显示和异步刷新，减少快速切换分类、反复展开收起及调整宽度时的错位与闪烁。
+更新后请覆盖导入动作，并重新运行生效。",2026-10-24
+水平分布间距,https://getquicker.net/Sharedaction?code=7016474f-0965-4b68-2580-08ddbd2201ae,实现功能：原软件内 对齐面板→分布间距→水平分布间距 的功能,Adobe Illustrator,FrankOoO,https://getquicker.net/User/804834/FrankOoO,5.8 KB,2025-07-08 13:46,1,原理：基于原软件录制动作，使用站内插件（作者@Anlv）将动作转为脚本；运行报错无法执行时处理逻辑和原生动作面板一致，点击停止即可。感谢开源共享。,2026-10-24
+垂直分布间距,https://getquicker.net/Sharedaction?code=45465d08-1568-42af-257f-08ddbd2201ae,实现功能：原软件内 对齐面板→分布间距→垂直分布间距 的功能,Adobe Illustrator,FrankOoO,https://getquicker.net/User/804834/FrankOoO,5.8 KB,2025-07-08 13:46,1,原理：基于原软件录制动作，使用站内插件（作者@Anlv）将动作转为脚本；运行报错无法执行时处理逻辑和原生动作面板一致，点击停止即刻。感谢开源共享。,2026-10-24
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,48.2 KB,2026-05-09 07:12,164,"## v0.31.31 (2026-10-22)
+
+- 修复便捷粘贴候选加载期间，快速按下 1／2、E、Q、D 或方向键时操作可能丢失、错序的问题。
+- 修复按 Q 准备连续粘贴后，再选择贴图等行操作或 E「粘贴并回车」时无反应的问题；仅准备队列时松键仍不自动粘贴。
+- 修复关闭 E「粘贴并回车」后仍吞掉 E，以及便捷粘贴按键误触发后方主窗口搜索的问题；额外修饰键组合交还前台应用，避免干扰系统快捷键。
+- 修复松开快捷键后立即按 Esc 仍发生粘贴的问题。连续粘贴浮层内按 Esc 同时取消本次队列，长按不会继续关闭底层窗口，旧取消也不会影响新队列。
+- 修复单键快捷键、快速松键及输入中断时的会话残留，避免浮窗卡住或迟到显示。本版仅提供 Windows x64 包。
+
+Rust 宿主最低版本更新至 0.31.31.0；入口 DLL 继续使用 0.31.27.1。",2026-10-24
+Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,Edge收藏夹垂直显示，快捷同步管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,154.9 KB,2026-08-21 09:26,14,"1、大幅优化edge书签数据同步速度；
+2、修复bug",2026-10-24
+屏幕亮度ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=96a70d2f-5558-4001-0df6-08df289b51da,支持多屏/所在屏鼠标贴边滚轮亮度调节，多种模式,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,95.1 KB,2026-10-13 14:50,3,修复重复提示亮度的bug,2026-10-24
+倒计时,https://getquicker.net/Sharedaction?code=ede0151a-27c0-4974-dc10-08dd71ba8805,倒计时/秒表正计时/番茄/全屏弹窗动画声效提示,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,158.5 KB,2025-04-03 11:09,20,v2-bug,2026-10-24
+AI 多开管理器,https://getquicker.net/Sharedaction?code=f1a5851b-9cb4-48f3-83fa-7b1b783a91c5,多选 AI 服务一键多开，直达对话页。支持 18 款内置 AI 及自定义网址服务，提供 WebView 多标签/多列、默认浏览器/自定义浏览器等多种打开方式，可自定义窗口大小与位置。右键菜单管理所有设置。,通用,吼姆拉,https://getquicker.net/User/110006/%E5%90%BC%E5%A7%86%E6%8B%89,34.3 KB,2026-10-15 16:15,3,"1.修改自定义ai服务设置，改为可排序的列表
+2.部分网站支持自动传入参数，目前支持网址参数自动输入的站点：DeepSeek、Kimi、ChatGPT、Claude、Perplexity（5 个），其他不支持自动传入参数的ai网站，查询文本会自动复制到剪贴板，请自行粘贴到输入框
+3.文心一言入口更新：yiyan.baidu.com → wenxin.baidu.com",2026-10-24
