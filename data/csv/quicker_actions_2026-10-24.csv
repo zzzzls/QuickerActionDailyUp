@@ -136,3 +136,10 @@ Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fb
 AI 多开管理器,https://getquicker.net/Sharedaction?code=f1a5851b-9cb4-48f3-83fa-7b1b783a91c5,多选 AI 服务一键多开，直达对话页。支持 18 款内置 AI 及自定义网址服务，提供 WebView 多标签/多列、默认浏览器/自定义浏览器等多种打开方式，可自定义窗口大小与位置。右键菜单管理所有设置。,通用,吼姆拉,https://getquicker.net/User/110006/%E5%90%BC%E5%A7%86%E6%8B%89,34.3 KB,2026-10-15 16:15,3,"1.修改自定义ai服务设置，改为可排序的列表
 2.部分网站支持自动传入参数，目前支持网址参数自动输入的站点：DeepSeek、Kimi、ChatGPT、Claude、Perplexity（5 个），其他不支持自动传入参数的ai网站，查询文本会自动复制到剪贴板，请自行粘贴到输入框
 3.文心一言入口更新：yiyan.baidu.com → wenxin.baidu.com",2026-10-24
+图标管理,https://getquicker.net/Sharedaction?code=17b78d43-8bc7-4200-a090-08d9ac50b9f2,,通用,Cea,https://getquicker.net/User/113342/Cea,26.6 KB,2021-11-21 22:42,63,"# 0.8.317
+
+- 修复右键图标时可能导致 Quicker 卡死或退出的问题。
+- 图标右键菜单新增“复制图片”，保留透明背景、图标颜色和 SVG 的留白、比例；普通图片按原尺寸复制，同时保留“复制图标代码”。
+- 图片加载与转换在后台完成，关闭窗口时取消待处理操作，失败时在界面提示。
+- 修复保存期间切换图标或继续编辑造成的草稿覆盖、重复新增，以及多选被缩回单选的问题。
+- 加强旧收藏和云端数据的解析、合并及并发保护，继续兼容原有云端收藏下载。",2026-10-24
