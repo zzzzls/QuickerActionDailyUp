@@ -9,3 +9,68 @@ BiliBili Maneger Test 1.1.1,https://getquicker.net/Sharedaction?code=7b131d22-7b
 计时,https://getquicker.net/Sharedaction?code=a7e7d513-e83b-4dbe-39dc-08dd776c5a34,倒计时、整点倒计时、正计时、番茄时钟、世界时钟，倒计时结束执行动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,171.8 KB,2025-04-10 18:17,27,新增：世界时钟加入太平洋时间（美国西部·洛杉矶），自动切换冬季 PST／夏季 PDT，并显示日期与 UTC 偏移。,2026-10-26
 文件预览,https://getquicker.net/Sharedaction?code=25038b70-7e1d-4afc-0551-08deec585c60,quicker2.0：文件预览、路径复制、文本复制，支持很多多类型,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,17.9 KB,2026-07-28 23:41,21,文本文件的预览支持修改，修改后保存；,2026-10-26
 计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,免费且强大的计算器，公式、历史、贴边、语音、深色、单位换算,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,206.6 KB,2024-06-13 00:30,117,完善帮助说明，补充回车发送的启用条件，以及历史和收藏记录的点击用法。,2026-10-26
+cpu等指标显示,https://getquicker.net/Sharedaction?code=ebd403a5-fef5-407e-c198-08df32ffd28b,实时显示CPU活动百分比、内存使用量、磁盘活动时间百分比（每秒刷新）,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,19.1 KB,2026-10-26 09:42,1,,2026-10-26
+修改后缀,https://getquicker.net/Sharedaction?code=7b02620a-b4ab-4713-c197-08df32ffd28b,修改当前目录下的所有文件的后缀;主要用于给ai导入文件,Windows 资源管理器,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,16.2 KB,2026-10-26 09:37,1,,2026-10-26
+获取文件/动作拖拽,https://getquicker.net/Sharedaction?code=a35568ff-1306-47df-c196-08df32ffd28b, MD5 持久化 DLL + 反射加载 的机制示例,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,164.2 KB,2026-10-26 09:35,1,,2026-10-26
+透明时钟 V2,https://getquicker.net/Sharedaction?code=81568537-a95a-4868-28c5-08df3239e8be,当前时间一眼可见，让桌面多一份清晰与简洁。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,43.3 KB,2026-10-25 16:00,3,修复参考背景范围，缩小占用空间,2026-10-26
+修改文件时间属性,https://getquicker.net/Sharedaction?code=50f5daed-6317-4d7d-28d0-08df3239e8be,"修改文件时间属性,如创建时间,访问时间和修改时间",通用,enough!,https://getquicker.net/User/897144/enough!,5.7 KB,2026-10-25 23:43,1,,2026-10-26
+全屏时钟,https://getquicker.net/Sharedaction?code=d90edc68-38ed-4413-28c8-08df3239e8be,一键将屏幕变成简洁的全屏时钟，让当前时间清楚地显示在眼前。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,48.2 KB,2026-10-25 18:24,1,,2026-10-26
+微信秒传,https://getquicker.net/Sharedaction?code=4b4835e3-6d71-49b4-2589-08ddbd2201ae,极速发送至微信好友！4.X微信版本用！,WeChat,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,360.3 KB,2025-07-08 15:17,18,修复V1保存设置报错问题,2026-10-26
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,【最强大便捷的智能计算器】功能强大，易用，高效，集多种计算器为一体」,通用,astroStar,https://getquicker.net/User/178545/astroStar,365 KB,2024-05-22 14:21,359,修复前导负号情况,2026-10-26
+摇摇置顶,https://getquicker.net/Sharedaction?code=19133259-0939-484f-9bc7-0f0e159afb56,"比较简单,拖住窗口标题栏左右摇一摇，即可切换置顶。支持调节置顶窗口调节透明度和鼠标穿透。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,55 KB,2026-10-22 13:25,3,优化稳定性,2026-10-26
+目录随行ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=7f0700f8-73d7-49d0-a9c9-08df243a98df,收藏、最近、当前打开、剪贴板目录随存选窗口出现，快速跳转目录,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,380.5 KB,2026-10-08 08:52,15,优化动作体积,2026-10-26
+窗口贴边速切,https://getquicker.net/Sharedaction?code=4cb41eae-275d-4ce9-9a4e-80471b03c0c7,把已打开的软件放到当前窗口边缘。单击切换、滚轮轮换、一键返回；支持四边贴靠、自定义顺序与最大化自动收起。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,410.7 KB,2026-10-10 11:42,16,"V2 preview50 更新说明
+
+新增功能
+- 新增“鼠标附近”位置模式，切换时在鼠标附近呼出原有浮条。
+- 浮条位置与 Alt 预选确认独立，关闭预选也能显示，保持即时切换。
+- 支持一直显示或自动隐藏；鼠标移入浮条可继续操作，收起后再次呼出会使用新的鼠标位置。
+优化与修复
+- 优化屏幕边缘定位，避免浮条超出屏幕工作区。
+- 减少跟随活动屏幕时的重复扫描，降低后台开销。
+- 优化圆角与阴影绘制，保持原始图标和外观。
+- 修复按住图标或拖动浮条时，自动刷新可能打断操作的问题。
+设置入口：设置中心 → 位置与显示 → 浮条位置 → 鼠标附近。
+
+更新后重新启动浮条即可，已有设置保留。",2026-10-26
+路径直达,https://getquicker.net/Sharedaction?code=1aaaa929-df63-4013-a03a-478d827e1888,"参考Listary, 搜索目录、快速跳转，让打开与保存更顺手 。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,640.1 KB,2026-10-19 14:00,9,"v0.58.25-preview 更新说明
+- 完善目录推荐：另存为、选择文件夹窗口中，新建、重命名及最后浏览的目录可加入推荐，保留“最近新建”和“最近浏览”两个位置，并自动去重。
+- 提升自动定位稳定性：修复新建、改名后快速关闭再打开时漏跳转，以及旧任务影响新窗口定位的问题。
+- 优化底部入口：搜索和分类栏固定，列表按剩余空间向上或向下展开；修复首行裁剪，改善高 DPI、跨屏时的尺寸与定位。
+- 大量目录分批显示：先显示一屏，再逐步补齐，加载期间可继续输入、切换分类和关闭窗口。
+- 优化搜索响应：取消过期查询、限制后台并发，减少任务堆积；改善快速输入、删除和清空关键词时的卡顿。
+- 改善刷新与重开体验：减少分类、子目录和预览的重复刷新；修复收起后继续加载、大列表重开卡顿，以及收藏、列表尾部的选择和滚动位置偏移。
+- 保留原有操作习惯：布局、原生图标和设置保持不变，兼容收藏拖拽、方向键、翻页、Home/End 及数字快捷键。
+自动定位默认关闭；开启后每个另存为窗口只定位一次，仅切换目录，不触发保存或打开，文件名和保存类型保持不变。
+
+更新后请重新运行动作，使新版驻留程序生效。",2026-10-26
+守护猫,https://getquicker.net/Sharedaction?code=5bd4892c-c452-49a5-b773-02a9d4b21257,你去倒杯水，我来守一会儿。普通模式、强力模式和屏幕冻结三种方式：键鼠触发 Windows 锁屏，或固定当前画面、拦截普通键鼠。默认 F8 开启／解除，支持自定义快捷键并保存，后台程序继续运行。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,183.7 KB,2026-10-23 18:30,2,"守护猫 · 本次更新
+- 新增「强力模式」：触发锁屏后继续守护，解锁后再次操作键鼠仍会锁屏，直到按快捷键取消。
+- 新增「屏幕冻结」：固定当前屏幕画面，拦截普通键鼠操作，后台程序继续运行，按设定快捷键解除。
+- 设置页统一管理三种模式与自定义快捷键，保存后下次继续使用。
+- 优化重复启用时的输入判断，修复提示消失、旧事件残留等可能导致误锁屏的问题，提升稳定性与流畅度。
+- 保持中下方简洁提示，并更新动作介绍和使用说明。
+- 兼容 Quicker V1、V2。
+**更新提示：**请先右键选择「退出并释放快捷键」，再更新动作；更新后点击一次即可启用。屏幕冻结模式需 Windows 10 1607 或更高版本。",2026-10-26
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,以独立桌面窗口或快捷面板集中管理 Quicker 动作、文件、文件夹、网址和文本。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,27.6 KB,2026-08-23 23:40,17,"桌面窗口升级为独立 EXE，以普通用户权限运行，支持与资源管理器双向拖放，不再依赖原先三个类库。
+Quicker 负责自动下载、校验、启动和唤出；程序保存在动作数据目录，已有程序运行时先暂存更新，正常退出后下次启动替换。
+新增分组“仅桌面显示／仅快捷面板显示／两边显示”，两边排列与视图独立，并可勾选当前用户开机自启动。
+修复桌面窗口与快捷面板关闭后位置、大小恢复偏移。保留原内容数据；本次重建旧版窗口与布局设置，后续沿用新版配置。
+已先更新分享页介绍，移除旧类库说明及过时截图。",2026-10-26
+轮盘归档ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=8d9ade47-8793-4cd4-48c3-08df17ac3ed0,用多层展开的轮盘选择目录，将文件移动或复制进去。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.1 MB,2026-09-22 11:14,17,优化动作体积,2026-10-26
+最近文件ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=754b8643-2c44-4fdb-ca11-08df16d477bc,列出最近下载、修改的文件，快速打开、复制、定位、重命名和归档。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,496.3 KB,2026-09-20 14:56,24,"显示数量可自定义，取消 500 条上限。
+Ctrl/Shift 快捷选择文件，自动进入多选模式。
+类型、文件夹筛选支持单击单选、Ctrl 叠加多选。
+“＋格式”可添加自定义扩展名分组，并支持编辑、删除。",2026-10-26
+安全弹出设备,https://getquicker.net/Sharedaction?code=a81ec290-eeac-4587-b29a-5146f29b8ead,一个安全弹出移动硬盘的工具，支持诊断和句柄占用检查。,通用,Anlv,https://getquicker.net/User/392637/Anlv,2.3 KB,2026-09-05 22:23,8,增强了句柄检测。,2026-10-26
+网页转PDF,https://getquicker.net/Sharedaction?code=744df096-db35-4774-8312-611ffcd3f319,取当前 Edge/Chrome 活动标签页网址，导出整页原宽 PDF （按打印媒体的真实内容高度出图，不限 A4、不分页），保存到系统临时目录 %TEMP%\Web2PDF 并自动用默认程序打开，同时把文件放入剪贴板便于直接粘贴。首次运行自动编译，之后秒开。 右击动作图标可用菜单切换：PDF / PNG 长图（1x、2x、3x）、页边距，或用「自定义」 弹窗自由设定分辨率倍数与页边距。转换期间右下角显示实时进度条。,浏览器通用,ttChen,https://getquicker.net/User/395924/ttChen,76.8 KB,2026-10-22 20:16,7,修复图片拼接漏洞,2026-10-26
+Univer Sheet,https://getquicker.net/Sharedaction?code=ce0b76c1-62e9-4bb8-792b-08de746dceea,Webview电子表格，支持自动保存内容,通用,FaniX,https://getquicker.net/User/52603/FaniX,19.6 KB,2026-02-26 22:48,2,更新上游UniverSheet版本,2026-10-26
+信息面板,https://getquicker.net/Sharedaction?code=e0d2b8a3-be38-433e-ad17-6bfe84c04d7d,包含时间、蓝牙、亮度、音频设备等多项信息，并可调节,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,143.7 KB,2026-10-23 20:52,5,优化蓝牙识别逻辑,2026-10-26
+重启DSH,https://getquicker.net/Sharedaction?code=f7f73a2b-188d-4938-b1d4-9ca60b4aeee1,重启 DeepSeek Harness，重启成功后自动弹出主窗口,DeepSeek Harness,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,6.6 KB,2026-10-18 20:26,2,1,2026-10-26
+超超超高效剪贴,https://getquicker.net/Sharedaction?code=19bc3f75-e37e-4fee-5ae5-08df279cd207,超超超高效的剪贴方法，已开发20+种手势！！！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,911.4 KB,2026-10-12 23:56,13,"扇区更新至8块。
+加快设置初次显示。",2026-10-26
+捷径面板3.0,https://getquicker.net/Sharedaction?code=4b3b6a69-15b9-4ca1-447b-08da37d44e37,捷径面板3.0,通用,Cea,https://getquicker.net/User/113342/Cea,29.8 KB,2022-05-17 21:55,77,"## v0.8.319 (2026-10-24)
+
+- 修复捷径面板样式 3 在白色字体配置下，条目出现白底白字、内容难以辨认的问题。
+- 明确使用已打包的 SQLite provider，避免在 Quicker V2 启动时探测未使用的 provider，产生误导性的缺少程序集错误日志。",2026-10-26
+WorkBuddy签到领积分,https://getquicker.net/Sharedaction?code=cc976b5a-9245-42ed-d04a-08def20feda8,后台领取WorkBuddy每日签到积分。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,23.5 KB,2026-08-04 23:27,9,精简动作描述。,2026-10-26
