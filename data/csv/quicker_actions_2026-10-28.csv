@@ -27,3 +27,27 @@ pdf2svg,https://getquicker.net/Sharedaction?code=a128d8ba-6547-4d30-c1a8-08df32f
 极简截图,https://getquicker.net/Sharedaction?code=26305e1e-182f-428e-c4db-08decb89ea35,截取屏幕区域，自动复制到剪贴板并保存到文件夹,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,10.7 KB,2026-06-17 18:50,7,适配 Quicker v2.0，解决新版本下无法钉图、贴图不显示的问题，现在可以正常截图钉图、剪贴板图片钉图。,2026-10-28
 屏幕边缘操作,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，屏幕边缘碰撞或点击触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,502.8 KB,2026-04-02 00:05,41,不留预设参数了，预览保存可能有不及时的问题,2026-10-28
 微信秒传,https://getquicker.net/Sharedaction?code=4b4835e3-6d71-49b4-2589-08ddbd2201ae,极速发送至微信好友！4.X微信版本用！,WeChat,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,353.7 KB,2025-07-08 15:17,19,修复选中内容采集bug,2026-10-28
+PDF工作台,https://getquicker.net/Sharedaction?code=d3d5fbae-ae4d-4d62-8309-a736bce2c55d,PDF相关功能集合（含扫描王）|快捷面板|工作台|交互爽!,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,143.9 KB,2026-10-26 11:31,13,强化增强型扫描功能（扫描王），现在四角定位效果不错了，去褶皱阴影也有加强。,2026-10-28
+Word2019中 表格格式一键调整,https://getquicker.net/Sharedaction?code=9ae13994-d55e-471d-281b-08d82ceb710a,一键设置表格字号、字体、行距、居中、表格对齐方式等,Microsoft Word,zZzZzZzZzZzZzZ,https://getquicker.net/User/51685/zZzZzZzZzZzZzZ,18.3 KB,2020-07-21 13:35,2,"表格居中 和 段前段后间距 有两套动作，二者选其一使用。
+（Word快捷键有时会与其他软件冲突，误唤起其他软件、导致动作中止，建议调整误唤起软件的快捷键，或者暂时关闭软件）",2026-10-28
+路径直达,https://getquicker.net/Sharedaction?code=1aaaa929-df63-4013-a03a-478d827e1888,"参考Listary, 搜索目录、快速跳转，让打开与保存更顺手 。",通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,651.8 KB,2026-10-19 14:00,10,"v0.58.29-preview 更新说明
+- 优化另存为底部入口的展开位置：空间不足时缩短列表并滚动，避让文件名、保存类型和保存按钮，减少遮挡与跳位。
+- 设置改为按变化局部刷新，调整宽度、行数等参数时保留搜索状态、选中项和滚动位置。
+- 加快设置中心首次打开，字体列表后台加载；减少切页、换字体时的重复布局和刷新。
+- 优化长路径首次显示及重复绘制，改善搜索高亮、悬停和子目录浏览的流畅度。
+- 加强高 DPI、连续切页、字体加载期间修改设置及关闭重开的稳定性验证，防止旧结果覆盖和设置丢失。
+保留现有布局、原生图标、功能及默认设置。更新后请重新运行动作。",2026-10-28
+目录随行ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=7f0700f8-73d7-49d0-a9c9-08df243a98df,收藏、最近、当前打开、剪贴板目录随存选窗口出现，快速跳转目录,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,725.7 KB,2026-10-08 08:52,23,面板宽度支持缩到更窄。,2026-10-28
+窗口贴边速切,https://getquicker.net/Sharedaction?code=4cb41eae-275d-4ce9-9a4e-80471b03c0c7,把已打开的软件放到当前窗口边缘。单击切换、滚轮轮换、一键返回；支持四边贴靠、自定义顺序与最大化自动收起。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,425 KB,2026-10-10 11:42,17,"V2 preview.53 更新说明
+- 减少误展开：默认仅悬停收起标记时展开，也可选择整个浮条区域。
+- 新增悬停展开延迟、收放动画时长设置。
+- 加入边缘缓冲与防抖，减少反复收放；按住鼠标时不自动展开。
+- Alt+滚轮切换间隔可调，默认 60 ms，响应更快。
+- 修复设置页加载失败后无法重试、界面显示不完整的问题。
+更新前先退出旧浮条，导入新版后重新启动。",2026-10-28
+守护猫,https://getquicker.net/Sharedaction?code=5bd4892c-c452-49a5-b773-02a9d4b21257,你去倒杯水，我来守一会儿。普通模式、强力模式和屏幕冻结三种方式：键鼠触发 Windows 锁屏，或固定当前画面、拦截普通键鼠。默认 F8 开启／解除，支持自定义快捷键并保存，后台程序继续运行。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,185.1 KB,2026-10-23 18:30,3,"本次更新：
+- 修复高 DPI 下设置窗口文字重叠、显示不全的问题。
+- 优化快捷键冲突提示及小屏滚动布局。
+- 继续兼容 Quicker V1、V2。
+更新前请先右键选择「退出并释放快捷键」，更新后点击一次启用。",2026-10-28
+坐标百分比,https://getquicker.net/Sharedaction?code=e5c0beef-5dee-4375-4219-08de8f97c69d,将获取到的坐标转换成百分比，以提高适配性,通用,喵喵鱼3,https://getquicker.net/User/67703/%E5%96%B5%E5%96%B5%E9%B1%BC3,52.9 KB,2026-04-01 12:49,1,简化动作，提高稳定性,2026-10-28
