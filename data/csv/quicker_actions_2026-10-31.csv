@@ -184,3 +184,15 @@ pdf自动重命名,https://getquicker.net/Sharedaction?code=6fd50459-a5d5-4e9e-8
 更新前先退出旧浮条，导入新版后重新启动。",2026-10-31
 宝可梦幸存者,https://getquicker.net/Sharedaction?code=8f63f0ee-8da9-43bf-925c-f3bd61a48c8e,在小窗口玩PokéSurvivor，内置汉化自动游戏脚本；点击开始或按 F8 后开启自动游玩。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,426.4 KB,2026-10-28 23:38,3,更新1.7.9版脚本,2026-10-31
 守藏使,https://getquicker.net/Sharedaction?code=c380afc9-153d-4de3-2de8-08d9a28424de,复制信息到到笔记软件，默认思源,SiYuan,米露缇欧,https://getquicker.net/User/279122/%E7%B1%B3%E9%9C%B2%E7%BC%87%E6%AC%A7,243.2 KB,2021-11-08 19:57,35,修bug，现在可以选中文本直接复制到笔记了,2026-10-31
+超级截图,https://getquicker.net/Sharedaction?code=8cb3e0ee-148d-4879-51f3-08df2d739eae,截图、标注、贴图、OCR、长截图与录屏；首次自动下载程序，右键可启动托盘。,通用,Cea,https://getquicker.net/User/113342/Cea,13.3 KB,2026-10-19 18:32,9,"# 0.4.17
+
+本版新增公式识别与多套翻译服务配置，改进快捷键、工具栏和保存设置。
+
+- 新增公式识别：选区图片可交给所配置的 API（默认 DeepSeek），预览文字、公式和表格，支持复制 LaTeX、Markdown 或排版图片。
+- 文字翻译和公式识别可分别选择 Index、DeepSeek 或自定义兼容服务；文字翻译默认使用无需密钥的 Index，API Key 按当前 Windows 用户加密保存。
+- 翻译保护代码、公式、网址、占位符和数值；表格保留行列结构，复制译文同时提供 TSV 和 HTML。
+- 快捷键设置新增贴图、分组和应用相关操作；工具栏支持拖动排序和添加，保存页增加“打开文件夹”。
+- 修复字体菜单首次打开时数秒无响应，以及批处理输出目录路径别名可能占用其它输入的问题。
+- 新增独立安装包，便携包与 Quicker 动作继续提供。
+
+升级前请从旧版托盘正常退出，再更新动作并点击启动新版。已有合格 OCR 缓存继续复用；公式识别和翻译会向所选服务发送待处理图片或文字。",2026-10-31
